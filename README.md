@@ -1,7 +1,7 @@
 # EXP 10 – React Strict Mode
 
 **NAME:** Nithya T  
-**REG NO:** 23050010123
+**REG NO:** 2305001023
 
 ## Aim
 
